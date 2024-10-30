@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-Music platform with my own design choices.
+Music platform with my own design.
 
 This is a 30 day project. I wanted to try how much I can do in 30 days.
 
@@ -13,4 +13,4 @@ Used languages
 
 I decided to use React instead of basic CSS and HTML. In the middle of the time project.
 
-For design choices, I wanted to use that used to be very popular: vaporwave.
+For design, I wanted to use that used to be very popular: vaporwave.
